@@ -26,8 +26,8 @@
 - Branch the Flow of Code Using the switch-case Construct in C#
 - Iterate Through a Code Block Using the for Statement in C#
 - Adding Looping Logic to Your Code Using the do-while and while Statements in C#
-- Guided Project - Develop Conditional Branching and Looping Structures in C#
-- Challenge Project - Develop Branching and Looping Structures in C# (see [fcccsharp_3.6.gp](https://github.com/DabblingDrake/fcccsharp_3.6.gp))
+- Guided Project - Develop Conditional Branching and Looping Structures in C# (see [fcccsharp_3.6.gp](https://github.com/DabblingDrake/fcccsharp_3.6.gp))
+- Challenge Project - Develop Branching and Looping Structures in C# (see [fcccsharp_3.6.gp](https://github.com/DabblingDrake/fcccsharp_3.7.cp))
 #### Additional Tasks
 - Practiced coding with Vim
 - Set up locally hosted Gitlab
