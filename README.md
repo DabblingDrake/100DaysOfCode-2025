@@ -1,17 +1,16 @@
 # 100 Days of Code
-
 ## freeCodeCamp Foundational C# with Microsoft
 ### Day 1 (June 26) - Day 16 (July 11)
-
-#### Part 1: Write Your First Code Using C# (see [github repo](https://github.com/DabblingDrake/freeCodeCampFoundationalCSharp))
+#### Part 1: Write Your First Code Using C# 
+(see [github repo](https://github.com/DabblingDrake/freeCodeCampFoundationalCSharp) for code snipits for all parts of this section)
 - Write your Fist C# Code
 - Store and Retrieve Data Using Literal and Variable Values in C#
 - Perform Basic String Formatting in C#
 - Perform Basic Operations on Numbers in C#
 - Guided Project - Calculate and Print Student Grades
 - Guided Project - Calculate Final GPA
-
-#### Part 2: Create and Run Simple C# Console Applications (see [github repo](https://github.com/DabblingDrake/freeCodeCampFoundationalCSharp))
+#### Part 2: Create and Run Simple C# Console Applications 
+(see [github repo](https://github.com/DabblingDrake/freeCodeCampFoundationalCSharp) for code snipits for all parts of this section)
 - Install and Configure Visual Studio Code
 - Call Methods from the .NET Class Library Using C#
 - Add Decision Logic to Your Code using  if, else, elseif, statements in C#
@@ -19,15 +18,15 @@
 - Create Readable Code with Conventions, Whitespace, and Comments in C#
 - Guided Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
 - Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
-
-#### Part 3: Add Logic to C# Console Applications (see [github repo](https://github.com/DabblingDrake/freeCodeCampFoundationalCSharp))
+#### Part 3: Add Logic to C# Console Applications 
+(see [github repo](https://github.com/DabblingDrake/freeCodeCampFoundationalCSharp) for code snipping from this section)
 - Evaluate Boolean Expressions to Make Decisions in C#
 - Control Variable Scope and Logic Using Code Blocks in C#
 - Branch the Flow of Code Using the switch-case Construct in C#
 - Iterate Through a Code Block Using the for Statement in C#
 - Adding Looping Logic to Your Code Using the do-while and while Statements in C#
-- Guided Project - Develop Conditional Branching and Looping Structures in C# (see [github repo](https://github.com/DabblingDrake/fcccsharp_3.6.gp))
-- Challenge Project - Develop Branching and Looping Structures in C# (see [github repo](https://github.com/DabblingDrake/fcccsharp_3.7.cp))
+- Guided Project - Develop Conditional Branching and Looping Structures in C# (see [github repo](https://github.com/DabblingDrake/fcccsharp_3.6.gp) for my project code)
+- Challenge Project - Develop Branching and Looping Structures in C# (see [github repo](https://github.com/DabblingDrake/fcccsharp_3.7.cp) for my project code)
 #### Additional Tasks
 - Practiced coding with Vim
 - Set up locally hosted Gitlab
