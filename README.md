@@ -1,8 +1,9 @@
 # 100 Days of Code
 ## freeCodeCamp Foundational C# with Microsoft
+(see [github repo fCCFCS](https://github.com/DabblingDrake/freeCodeCampFoundationalCSharp) for activites from this course)
+(see [github repo NEED TO ADD]() for general code snippets from this course)
 ### Day 1 (June 26) - Day 16 (July 11)
 ##### Part 1: Write Your First Code Using C# 
-(see [github repo](https://github.com/DabblingDrake/freeCodeCampFoundationalCSharp) for code snipits for all parts of this section)
 - Moduel 1: Write your Fist C# Code
 - Moduel 2: Store and Retrieve Data Using Literal and Variable Values in C#
 - Moduel 3: Moduel 4: Perform Basic String Formatting in C#
@@ -10,7 +11,6 @@
 - Moduel 5: Guided Project - Calculate and Print Student Grades
 - Moduel 6: Guided Project - Calculate Final GPA
 ##### Part 2: Create and Run Simple C# Console Applications 
-(see [github repo](https://github.com/DabblingDrake/freeCodeCampFoundationalCSharp) for code snipits for all parts of this section)
 - Moduel 1: Install and Configure Visual Studio Code
 - Moduel 2: Call Methods from the .NET Class Library Using C#
 - Moduel 3: Moduel 4: Add Decision Logic to Your Code using  if, else, elseif, statements in C#
@@ -19,7 +19,6 @@
 - Moduel 6: Guided Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
 - Moduel 7: Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
 ##### Part 3: Add Logic to C# Console Applications 
-(see [github repo](https://github.com/DabblingDrake/freeCodeCampFoundationalCSharp) for code snipping from this section)
 - Moduel 1: Evaluate Boolean Expressions to Make Decisions in C#
 - Moduel 2: Control Variable Scope and Logic Using Code Blocks in C#
 - Moduel 3: Moduel 4: Branch the Flow of Code Using the switch-case Construct in C#
