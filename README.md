@@ -45,7 +45,7 @@
     - Unit 6: Challenge Activity: Complete a challenge to output math operations as specific number types
 
 ### Day 19 (July 16)
-- Worked on small console app for PTO calcuations [see PTO use or lose repo](https://github.com/DabblingDrake/ptoUseOrLose)
+- Started on small console app for PTO calculations [see PTO use or lose repo](https://github.com/DabblingDrake/ptoUseOrLose)
     - Implemented switch case logic
     - Learned about enumeration 
     - Learned about DateTime and related methods/Enums
