@@ -31,6 +31,7 @@
 - Set up locally hosted Gitlab
 - Set up Github account
 - Practiced with git and pushed projects to gitlab and set up mirror to github.
+
 ### Day 17 (July 13)
 - Gitlab went down. Had to trouble shoot why. Found out Plymout-quit-wait.services was holding up other services preventing gitlab services from running on start up. Fixed by enabling Multi-User.Target as the default.
 - Created this repo to keep track on 100 Days of Code. Mirrored and pushed a couple of repos to and from Gitlab and Github. 
@@ -42,3 +43,9 @@
 - Moduel 2: Convert Data Ypes using Castng and Conversion Techniques in C#
     - Unit 4: Challenge Activity: Complete a challenge to combine string array values as strings and as integers
     - Unit 6: Challenge Activity: Complete a challenge to output math operations as specific number types
+
+### Day 19 (July 16)
+- Worked on small console app for PTO calcuations [see PTO use or lose repo](https://github.com/DabblingDrake/ptoUseOrLose)
+    - Implemented switch case logic
+    - Learned about enumeration 
+    - Learned about DateTime and related methods/Enums
