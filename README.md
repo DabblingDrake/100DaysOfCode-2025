@@ -49,3 +49,12 @@
     - Implemented switch case logic
     - Learned about enumeration 
     - Learned about DateTime and related methods/Enums
+
+### Day 20 (July 18)
+- Researched alot of DateTime functions and methods to work on the PTO project.
+
+### Day 21 (July 20) to Day 23 (July 21) 
+- Reseached more DateTime and Array usage in C#.
+- Worked on PTO Console App. 
+    - First iteration of options 3 and 4 are functions with some limitations.
+        - Utilized Lists, Arrays, DateTime, For Loops, While,
