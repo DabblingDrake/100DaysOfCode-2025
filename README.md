@@ -58,3 +58,7 @@
 - Worked on PTO Console App. 
     - First iteration of options 3 and 4 are functional with some limitations.
         - Utilized Lists, Arrays, DateTime, For Loops, While,
+
+### Day 23 (July 22)
+- Completed Part 4, Module 3 of the freeCodeCamp Foundational C# Course.
+    - 2 challenge activites working with Array Helpers.
